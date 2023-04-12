@@ -1,1 +1,3 @@
-社区疫情防控平台
+本项目是北京理工大学软件工程21级软件需求工程与UML建模课程第13组的课程作业，选题为社区疫情防控系统。本系统旨在为社区提供一种便捷的方式来管理疫情防控工作，包括注册登录、采购防疫物资等功能。本项目只有对该系统的需求分析，而无具体实现。
+
+This project is the coursework of Group 13 of the Software Requirement Engineering and UML Modeling course of the Software Engineering major at Beijing Institute of Technology, 2021. The selected topic is the Community Epidemic Prevention and Control System. The purpose of this system is to provide a convenient way for communities to manage epidemic prevention and control work, including functions such as registration and login, and procurement of epidemic prevention materials. This project only involves the requirement analysis of the system, without actual implementation.
